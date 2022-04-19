@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raheem Adesola ",
+      "email": "yakdseeker@gmail.com",
+      "phone": "08162754001",
+      "address": "474 Lagos - Abeokuta express way, Abule egba, Lagos"
+    },
+    {
+      "name": "Kula Man",
+      "email": "yaqub.adesola@gmail.com",
+      "phone": "08075654321",
+      "address": "2, Beautiful close, Sango Otta, Ogun state",
+      "id": 3
+    },
+    {
+      "name": "Abike Afolabi",
+      "email": "abikeade@gmail.com",
+      "phone": "08162754001",
+      "address": "474 Lagos - Abeokuta express way, Abule egba, Lagos",
+      "id": 4
+    },
+    {
+      "name": "Tunde Oginni L",
+      "email": "tundeoginni@gmail.com",
+      "phone": "08098989898",
+      "address": "Ibadan",
+      "id": 5
+    },
+    {
+      "name": "Rauf ",
+      "email": "aregbe@gmail.com",
+      "phone": "0909090909",
+      "address": "Ijesha, Osun State",
+      "id": 6
+    },
+    {
+      "name": "Wasiu Agiri",
+      "email": "wasiu@agiri.com",
+      "phone": "08065654545",
+      "address": "Lagos Mainland",
+      "id": 7
+    },
+    {
+      "name": "Owoyemi Osinbajo",
+      "email": "owo@gmail.com",
+      "phone": "08162754001",
+      "address": "Molete, Ibadan",
+      "id": 8
+    },
+    {
+      "name": "Deji Adekunle",
+      "email": "dejisco@gmail.com",
+      "phone": "08053435383",
+      "address": "Moniya, Ibadan",
+      "id": 9
+    },
+    {
+      "name": "Adewale Kazeem",
+      "email": "adekaz@gmail.com",
+      "phone": "08038648040",
+      "address": "Ifo, Ogun State",
+      "id": 10
+    },
+    {
+      "name": "Ibrahim Olayioye",
+      "email": "ibraphem",
+      "phone": "08074544422",
+      "address": "Ijaiye Ojokoro",
+      "id": 11
+    }
+  ]
+}
